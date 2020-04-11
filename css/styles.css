@@ -1,0 +1,8 @@
+#notificationHeading {
+    background-color: black;
+    cursor: pointer;
+}
+
+#notificationCount {
+    color: #f30a0a;
+}
