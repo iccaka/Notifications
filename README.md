@@ -10,7 +10,7 @@
 
 * **Hristo Mitsev** - *Initial work* - [iccaka](https://github.com/iccaka)
 
-See also the list of [contributors]() who participated in this project.
+See also the list of [contributors](https://github.com/iccaka/Notifications/graphs/contributors) who participated in this project.
 
 ## License
 
