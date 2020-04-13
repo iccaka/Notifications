@@ -1,3 +1,10 @@
+.notifications {
+    box-shadow: 3px 3px;
+    margin-bottom: 10px;
+    cursor: default;
+    background-color: #f5f5f5;
+}
+
 #notificationHeading {
     background-color: black;
     cursor: pointer;
@@ -5,4 +12,10 @@
 
 #notificationCount {
     color: #f30a0a;
+}
+
+#notificationBucket img {
+    display: block;
+    max-width: 100%;
+    height: auto;
 }
