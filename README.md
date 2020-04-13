@@ -1,6 +1,6 @@
 # Notifications
 
-*A simple notifications segment that can be implemented into a website*
+*A simple notifications segment that can be implemented into a website. Uses JQuery and Bootstrap for styling.*
 
 ## Built With
 
